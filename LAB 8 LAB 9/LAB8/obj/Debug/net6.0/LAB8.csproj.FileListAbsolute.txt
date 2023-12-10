@@ -1,0 +1,15 @@
+C:\Users\kanto\OneDrive\Pulpit\LAB 8\LAB8\obj\Debug\net6.0\LAB8.csproj.AssemblyReference.cache
+C:\Users\kanto\OneDrive\Pulpit\LAB 8\LAB8\obj\Debug\net6.0\LAB8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kanto\OneDrive\Pulpit\LAB 8\LAB8\obj\Debug\net6.0\LAB8.AssemblyInfoInputs.cache
+C:\Users\kanto\OneDrive\Pulpit\LAB 8\LAB8\obj\Debug\net6.0\LAB8.AssemblyInfo.cs
+C:\Users\kanto\OneDrive\Pulpit\LAB 8\LAB8\obj\Debug\net6.0\LAB8.csproj.CoreCompileInputs.cache
+C:\Users\kanto\OneDrive\Pulpit\LAB 8\LAB8\bin\Debug\net6.0\LAB8.exe
+C:\Users\kanto\OneDrive\Pulpit\LAB 8\LAB8\bin\Debug\net6.0\LAB8.deps.json
+C:\Users\kanto\OneDrive\Pulpit\LAB 8\LAB8\bin\Debug\net6.0\LAB8.runtimeconfig.json
+C:\Users\kanto\OneDrive\Pulpit\LAB 8\LAB8\bin\Debug\net6.0\LAB8.dll
+C:\Users\kanto\OneDrive\Pulpit\LAB 8\LAB8\bin\Debug\net6.0\LAB8.pdb
+C:\Users\kanto\OneDrive\Pulpit\LAB 8\LAB8\obj\Debug\net6.0\LAB8.dll
+C:\Users\kanto\OneDrive\Pulpit\LAB 8\LAB8\obj\Debug\net6.0\refint\LAB8.dll
+C:\Users\kanto\OneDrive\Pulpit\LAB 8\LAB8\obj\Debug\net6.0\LAB8.pdb
+C:\Users\kanto\OneDrive\Pulpit\LAB 8\LAB8\obj\Debug\net6.0\LAB8.genruntimeconfig.cache
+C:\Users\kanto\OneDrive\Pulpit\LAB 8\LAB8\obj\Debug\net6.0\ref\LAB8.dll
